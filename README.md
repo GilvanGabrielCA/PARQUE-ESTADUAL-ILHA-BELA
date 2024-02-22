@@ -4,8 +4,8 @@
 O intuito do projeto era treinar as habilidades aprendidas na 2ª Missão - Aprenda a construir seu primeiro documento HTML
 
 <h3>Temas abordado na 2º Missão</h3>
-- O que é HTML
-- Fundamentos do HTML
-- Tags básicas
+- O que é HTML<br>
+- Fundamentos do HTML<br>
+- Tags básicas<br>
 
 <p>Após abordado esses assuntos, foi realizado o projeto de criar uma pagina usando 100% HTML <b>Parque Estadual de Ilha Bela</b></p>
